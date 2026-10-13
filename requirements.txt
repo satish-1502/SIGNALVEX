@@ -1,0 +1,15 @@
+# SIGNALVEX Cloud & Local Deployment Dependencies
+# Standardized for Linux (Streamlit Community Cloud) & Windows
+
+# Computer Vision & Headless Processing
+opencv-python-headless>=4.8.0.76
+ultralytics>=8.1.0
+torch>=2.0.0
+torchvision>=0.15.0
+lapx>=0.5.5
+
+# Web Dashboard & Data Science
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+Pillow>=10.0.0
